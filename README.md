@@ -7,15 +7,11 @@
   <img src="https://img.shields.io/badge/Discord-godtick-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </p>
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo"/>
 </p>
-
-<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=godtick&theme=github_dark" />
