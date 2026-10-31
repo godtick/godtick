@@ -1,10 +1,10 @@
 # <p align="center">Hey! I'm godtick 👋</p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Discord-godtick-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   <a href="https://steamcommunity.com/profiles/76561199093156591/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-godtick-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </p>
 
 <p align="center">
